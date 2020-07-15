@@ -1,0 +1,12 @@
+.style{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #979A9A;
+    font-style: oblique;
+}
+h1{color:#EC407A; }
+p{color:#F4D03F;
+  font-size: larger;
+  font-style: italic;
+}
